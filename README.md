@@ -1,6 +1,6 @@
 ## Olá! Me Chamo Augusto Ribeiro Prestes da Silva!
 
-### Estudante de programação (fullstack), com conhecimentos em Node.js, boodstrap, python e atualmente estudando Vue.js 
+### Estudante de programação (fullstack), com conhecimentos em Node.js, boodstrap, python e atualmente estudando React.js 
 
 <div align="center">
   <a href="https://github.com/AugustoPrestes">
