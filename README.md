@@ -1,8 +1,8 @@
-## Olá! Me Chamo Augusto Ribeiro Prestes da Silva!
+## Hello! My name is Augusto Prestes da Silva!
 
-### Estudante de programação, com conhecimentos em Node.js, boodstrap, python e atualmente estudando Python com a intensão de aprimorar meus conhecimentos em analise de dados e Big Data.
+### Currently studying the 5th semester of Systems Analysis and Development, i'm currently improving my knowledge in statistic and ML for data science.
 
-### Acesse meu Site para ver um pouco mais do meu trabalho https://augustoprestes.github.io/
+### Access my web site for more informations https://augustoprestes.github.io/
 
 <div align="center">
   <a href="https://github.com/AugustoPrestes">
