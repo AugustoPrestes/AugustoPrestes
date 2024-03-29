@@ -2,7 +2,7 @@
 
 ### Currently studying the 5th semester of Systems Analysis and Development, i'm currently improving my knowledge in statistic and ML for data science.
 
-### Access my web site for more informations https://augustoprestes.github.io/
+### Access my web site for more informations [Portifólio](https://www.augustoprestes.com.br/)
 
 <div align="center">
   <a href="https://www.augustoprestes.com.br/">
