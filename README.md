@@ -5,7 +5,7 @@
 ### Access my web site for more informations https://augustoprestes.github.io/
 
 <div align="center">
-  <a href="https://github.com/AugustoPrestes">
+  <a href="https://www.augustoprestes.com.br/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoPrestes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoPrestes&layout=compact&langs_count=7&theme=dark"/>
 </div>
