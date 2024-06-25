@@ -1,8 +1,8 @@
 ## Hello! My name is Augusto Prestes da Silva!
 
-### Currently studying the 5th semester of Systems Analysis and Development, i'm currently improving my knowledge in statistic and ML for data science.
+#### Currently i'm currently improving my knowledge in statistic, ML and Data Visualization for data science.
 
-### Access my web site for more informations [Portifólio](https://www.augustoprestes.com.br/)
+#### Access my web site for more informations [Portifólio](https://www.augustoprestes.com.br/)
 
 <div align="center">
   <a href="https://www.augustoprestes.com.br/">
@@ -10,7 +10,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoPrestes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
   ##
@@ -21,4 +24,4 @@
  
   ![Snake animation](https://github.com/AugustoPrestes/AugustoPrestes/blob/output/github-contribution-grid-snake.svg)
  
-</div>0
+</div>
